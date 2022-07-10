@@ -1,0 +1,1 @@
+hello worldHere is the result : the first text, the second text
